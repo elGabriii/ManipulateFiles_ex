@@ -1,0 +1,14 @@
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\bin\Debug\netcoreapp3.1\ManipulateFiles_ex.exe
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\bin\Debug\netcoreapp3.1\ManipulateFiles_ex.deps.json
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\bin\Debug\netcoreapp3.1\ManipulateFiles_ex.runtimeconfig.json
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\bin\Debug\netcoreapp3.1\ManipulateFiles_ex.runtimeconfig.dev.json
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\bin\Debug\netcoreapp3.1\ManipulateFiles_ex.dll
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\bin\Debug\netcoreapp3.1\ManipulateFiles_ex.pdb
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\obj\Debug\netcoreapp3.1\ManipulateFiles_ex.csproj.AssemblyReference.cache
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\obj\Debug\netcoreapp3.1\ManipulateFiles_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\obj\Debug\netcoreapp3.1\ManipulateFiles_ex.AssemblyInfoInputs.cache
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\obj\Debug\netcoreapp3.1\ManipulateFiles_ex.AssemblyInfo.cs
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\obj\Debug\netcoreapp3.1\ManipulateFiles_ex.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\obj\Debug\netcoreapp3.1\ManipulateFiles_ex.dll
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\obj\Debug\netcoreapp3.1\ManipulateFiles_ex.pdb
+C:\Users\gabriel.ribeiro\source\repos\elGabriii\ManipulateFiles_ex\obj\Debug\netcoreapp3.1\ManipulateFiles_ex.genruntimeconfig.cache
